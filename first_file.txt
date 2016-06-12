@@ -1,0 +1,1 @@
+my first repository. This is just garbage nonsense and it is my first file for my first git repository. Boom there it is.
